@@ -5,16 +5,6 @@ This project integrates **biometric authentication (face recognition)**, **OTP-b
 
 ---
 
-## 🔐 Overview
-
-This project is based on the research paper  
-**“A Multi-Layered DNA Cryptographic Model for Securing Patient Identities.”**
-
-It introduces a **biology-inspired cryptographic framework** that leverages genetic randomness from DNA sequences to dynamically generate encryption keys for safeguarding electronic health records (EHRs).  
-The system ensures data privacy, regulatory compliance, and tamper-proof access verification.
-
----
-
 ## 🚀 Features
 
 - **DNA-Based AES Encryption:**  
