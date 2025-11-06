@@ -1,4 +1,4 @@
-<img width="1919" height="770" alt="Screenshot 2025-11-04 233424" src="https://github.com/user-attachments/assets/f462ba63-f8d0-40c8-9297-bb04341e3d03" /># 🧬 Multi-Layered DNA Cryptographic Identity Protection System
+# 🧬 Multi-Layered DNA Cryptographic Identity Protection System
 
 A secure identity management system that protects patient identities using **DNA-based cryptography**, **multi-factor authentication**, and **AES-256 encryption**.  
 This project integrates **biometric authentication (face recognition)**, **OTP-based temporal validation**, and a **dual-database architecture** for enhanced data security in healthcare environments.
@@ -40,6 +40,8 @@ This project integrates **biometric authentication (face recognition)**, **OTP-b
 
 ## 🧩 System Architecture
 User → Face Recognition → OTP Validation → DNA Key Generation → AES-256 Encryption/Decryption → MySQL Database
+
+---
 
 ## Dashboard
 
