@@ -29,7 +29,7 @@ This project integrates **biometric authentication (face recognition)**, **OTP-b
 | Category | Technologies |
 |-----------|---------------|
 | **Frontend** | Streamlit |
-| **Backend** | Python (Flask/Streamlit) |
+| **Backend** | Python |
 | **Database** | MySQL |
 | **Encryption** | AES-256, PBKDF2-HMAC-SHA256 |
 | **Authentication** | Face Recognition, OTP (via Email) |
